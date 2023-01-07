@@ -1,0 +1,33 @@
+Found 29 Antiprimes
+1 has 1 factors 
+2 has 2 factors 
+4 has 3 factors 
+6 has 4 factors 
+12 has 6 factors 
+24 has 8 factors 
+36 has 9 factors 
+48 has 10 factors 
+60 has 12 factors 
+120 has 16 factors 
+180 has 18 factors 
+240 has 20 factors 
+360 has 24 factors 
+720 has 30 factors 
+840 has 32 factors 
+1260 has 36 factors 
+1680 has 40 factors 
+2520 has 48 factors 
+5040 has 60 factors 
+7560 has 64 factors 
+10080 has 72 factors 
+15120 has 80 factors 
+20160 has 84 factors 
+25200 has 90 factors 
+27720 has 96 factors 
+45360 has 100 factors 
+50400 has 108 factors 
+55440 has 120 factors 
+83160 has 128 factors 
+
+The Best Antiprime is: 83160
+It has 128 factors

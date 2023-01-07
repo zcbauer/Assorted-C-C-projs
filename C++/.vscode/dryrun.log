@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/zachbauer/Desktop/CS_things/For_Fun/C++'
+c++ -Wall -Werror -pedantic --std=c++17 -g Overwrite.cpp -o Overwrite.exe
+make: Leaving directory `/Users/zachbauer/Desktop/CS_things/For_Fun/C++'
+ 
